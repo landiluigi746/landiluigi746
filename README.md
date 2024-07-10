@@ -2,7 +2,7 @@
 
 ## About
 Hello! I'm a 12th grade computer science student and aspiring programmer/game developer who always looks forward to challenges and learning new things.
-I always look forward to learning new things, experiment with different languages and building a large varitety of projects, both individually and in group.
+I like experimenting with different languages and building a large varitety of projects, both individually and in group.
 
 ## My tech stack
 
