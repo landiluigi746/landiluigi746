@@ -20,7 +20,7 @@ I like experimenting with different languages and building a large varitety of p
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## My top projects
-[![Classics](https://github-readme-stats.vercel.app/api/pin/?username=landiluigi746&repo=Classics)](https://github.com/landiluigi746/Classics)
+[![Lufrak](https://github-readme-stats.vercel.app/api/pin/?username=landiluigi746&repo=Lufrak)](https://github.com/landiluigi746/Lufrak)
 [![llib](https://github-readme-stats.vercel.app/api/pin/?username=landiluigi746&repo=llib)](https://github.com/landiluigi746/llib)
 
 ## My focuses
