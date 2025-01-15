@@ -21,7 +21,6 @@ I like experimenting with different languages and building a large varitety of p
 
 ## My top projects
 [![Lufrak](https://github-readme-stats.vercel.app/api/pin/?username=landiluigi746&repo=Lufrak)](https://github.com/landiluigi746/Lufrak)
-[![llib](https://github-readme-stats.vercel.app/api/pin/?username=landiluigi746&repo=llib)](https://github.com/landiluigi746/llib)
 
 ## My focuses
 Currently, I am looking to improve in game development and start web development and low-level system programming.
