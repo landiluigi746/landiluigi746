@@ -24,7 +24,11 @@ Currently, I am looking to improve in game development and start web development
 I'm also eager to explore the possibilities of AI and how it can be powerful.
 Looking forward to delving into these diverse areas and expanding my skills.
 
-## 📫 How to reach me
+------
+
+[![Codewars](https://www.codewars.com/users/landiluigi746/badges/large)](https://www.codewars.com/users/landiluigi746)
+
+## 📫 You can find me on
 - [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198389115124/)
 - [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/588073796401889297)
 - [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@landiluigi746)
