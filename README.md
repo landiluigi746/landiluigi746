@@ -1,14 +1,36 @@
 # 👋 Hi, I’m Luigi Landi
 
 ## About
-Hello! I'm an italian 12th grade computer science student and aspiring programmer who always looks forward to challenges and learning new things. I like experimenting with different languages and building a large varitety of projects, both individually and in group. Currently, I am looking to improve my problem solving skills and start backend development. I'm also eager to explore the possibilities of AI and how it can be powerful. Looking forward to delving into these areas and expanding my skills. Here you can see my tech stack and top projects.
+Hi there!
+I'm an Italian 13th-grade computer science student and aspiring programmer with a passion for problem solving, learning, and building. I enjoy experimenting with different technologies and creating a wide variety of projects—both independently and as part of a team.
+
+Lately, my main interests revolve around:
+- 🎮 Game Development
+- 🛠️ Backend Development
+- 🛡️ Cybersecurity – especially software security, after reaching the finals of the 2025 edition of CyberChallenge.IT, which also brought my passion for CTF competitions
+
+Here on GitHub, you'll find my tech stack and top projects. Always excited to learn and collaborate!
 
 ## My tech stack
 
-[![TechStack](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,html,css,js,git,github,vscode,visualstudio,zed,cmake,postgresql,sqlite,windows,ubuntu,docker&perline=8)](https://skillicons.dev)
+### Languages
+
+[![Languages](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,html,css,js)](https://go-skill-icons.vercel.app)
+
+### Tools
+[![Tools](https://go-skill-icons.vercel.app/api/icons?i=cmake,git,github,docker)](https://go-skill-icons.vercel.app)
+
+### Databases
+[![TechStack](https://go-skill-icons.vercel.app/api/icons?i=postgresql,sqlite)](https://go-skill-icons.vercel.app)
+
+### Code editors / IDEs
+[![TechStack](https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,zed)](https://go-skill-icons.vercel.app)
+
+### Operating systems
+[![TechStack](https://go-skill-icons.vercel.app/api/icons?i=windows,ubuntu)](https://go-skill-icons.vercel.app)
 
 ## My top projects
-| [![Lufrak](https://github-readme-stats.vercel.app/api/pin/?username=landiluigi746&repo=Lufrak)](https://github.com/landiluigi746/Lufrak) | [![cellarion](https://github-readme-stats.vercel.app/api/pin/?username=landiluigi746&repo=cellarion)](https://github.com/landiluigi746/cellarion) | [![shurlx](https://github-readme-stats.vercel.app/api/pin/?username=landiluigi746&repo=shurlx)](https://github.com/landiluigi746/shurlx) |
+| [![Nova](https://github-readme-stats.vercel.app/api/pin/?username=landiluigi746&repo=Nova)](https://github.com/landiluigi746/Nova) | [![Lufrak](https://github-readme-stats.vercel.app/api/pin/?username=landiluigi746&repo=Lufrak)](https://github.com/landiluigi746/Lufrak) | [![cellarion](https://github-readme-stats.vercel.app/api/pin/?username=landiluigi746&repo=cellarion)](https://github.com/landiluigi746/cellarion) |
 |-|-|-|
 
 ------
